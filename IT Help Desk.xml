@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+    <publisher>Facebook</publisher>
+    <publisherurl>https://www.facebook.com/</publisherurl>
+    <lastBuildDate>Mon, 09 Aug 2022 22:49:39 GMT</lastBuildDate>
+    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH01]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH01&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[	Pacoima]]></city>
+        <state><![CDATA[California]]></state>
+        <radius><![CDATA[30]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[1111]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Benefits:
+
+A casual, progressive, and diverse organization
+Brand pride and passion, you are truly helping people
+Remote forever
+A 401k program with an employer match
+Healthcare, Dental, Vision, and life insurance benefits - additional coverage options available such as Short Term Disability, Long Term Disability, Group Accident Insurance
+Professional development & advancement opportunities
+Thriveworks is a growing company that provides a challenging and rewarding work environment as well as a culture that promotes open communication and teamwork. Successful employment candidates are expected to embody our Core Values. If you are looking for an exciting and rewarding employment opportunity, apply to Thriveworks today!
+
+
+]]>
+        </description>
+		<salary_unit><![CDATA[CAD]]></salary_unit>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+      <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH01]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH01&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Edison]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[2222]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_unit><![CDATA[CAD]]></salary_unit>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH02]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH02&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[New Brunswick]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[3333]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+       <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+				<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH02]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH02&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Newark]]></city>
+        <state><![CDATA[Ohio]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[4444]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH03]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH03&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Corona]]></city>
+        <state><![CDATA[New York]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[5555]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH04]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH04&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Katy]]></city>
+        <state><![CDATA[Texas]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[6666]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH05]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH05&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[South Gate]]></city>
+        <state><![CDATA[California]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[7777]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH06]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH06&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Edison]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[8888]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH07]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH07&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Lakewood]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[9999]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH08]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH08&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Bell Gardens]]></city>
+        <state><![CDATA[California]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[0000]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH09]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH09&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Texas City]]></city>
+        <state><![CDATA[Texas]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[1234]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[IT Help Desk]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[ITH010]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=ITH01&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Facebook]]></company>
+        <city><![CDATA[Texarkana]]></city>
+        <state><![CDATA[Texas]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[4321]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[Xchange Telecom LLC is currently seeking a IT Help Desk to join their team in Brooklyn, New York.
+
+About the Job:
+This position is primarily responsible for investigating and resolving software and hardware problems of computer users by performing the following duties.
+
+Duties:
+Answers, evaluates, and prioritizes incoming telephone, voice mail, e-mail, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and other computer-related technologies.
+Interviews user to collect information about problem and leads user through diagnostic procedures to determine source of error.
+Determines whether problem is caused by hardware such as modem, printer, cables, or telephone.
+Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, referring more complex problems to supervisor or technical staff.
+Logs and tracks calls using problem management database and maintains history records and related problem documentation.
+Prepares standard statistical reports, such as help desk incident reports.
+Analyzes and evaluates incident reports and makes recommendations to reduce help line incident rate.
+Consults with programmers to explain software errors or to recommend changes to programs.
+Call’s software and hardware vendors to request service regarding defective products.
+Test’s software and hardware to evaluate ease of use and whether product will aid user in performing work.
+Writes software and hardware evaluation and recommendation for management review.
+Writes or revises user training manuals and procedures.
+Develops training materials such as exercises and visual displays.
+Trains users on software and hardware on-site or in classroom or recommends outside contractors to provide training.
+Installs personal computers, software, and peripheral equipment
+Education and Experience/ Skills:
+Candidate must have a bachelor’s degree or 1-2 years of experience in related field
+Candidate must have strong communication skills
+Knowledge of Accounting software; Contact Management systems; Database software; Design software; Development software; Human Resource systems; Internet software; Inventory software; Manufacturing software; Order Processing systems; Payroll systems; Project Management software; Spreadsheet software and Word Processing software. The specific Software and Systems: (Microsoft Office 2007-Office 365, Microsoft Windows XP - 8.x , Microsoft Windows Server 2000 - 2013, Dell Computer systems, Light cabling experience, Quickbooks (installation and configuration only)
+An open minded, self-starter, enthusiastic individual.
+Compensation and Benefits:
+Compensation commensurate with experience.
+Robust Benefits packages available including (PTO, vacations, sick days, Health, Vision, Dental, retirement savings plan etc.)
+Please submit your resume via the ‘Apply now’ button
+We are an Equal Opportunity Employer!
+]]>
+        </description>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[FULL_TIME]]></jobtype>
+        <major_category><![CDATA[Information Technology]]></major_category>
+        <minor_category><![CDATA[System Administrator]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+			<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+        </requirements>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[Dental insurance]]></benefit2>
+			<benefit3><![CDATA[Retirement plan]]></benefit3>
+		</benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+</source>
